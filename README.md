@@ -48,7 +48,7 @@
 + DRQN (Sequential)
 + DRQN
 
-##リンク一覧(Qiita記事)
+## リンク一覧(Qiita記事)
 ### 各アルゴリズムの詳細:
 
 + Q-Learning: (https://qiita.com/sugiyama404/items/5ac7043c7d3c2edd043a)
