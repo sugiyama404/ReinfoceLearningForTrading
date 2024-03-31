@@ -51,7 +51,7 @@ DRQN
 ##リンク一覧(Qiita記事)
 ### 各アルゴリズムの詳細:
 
-Q-Learning: [(https://qiita.com/sugiyama404/items/5ac7043c7d3c2edd043a)]
+Q-Learning: (https://qiita.com/sugiyama404/items/5ac7043c7d3c2edd043a)
 SARSA: [(https://qiita.com/sugiyama404/items/5ac7043c7d3c2edd043a)]
 Double Q-Learning: [無効な URL を削除しました]
 Prioritized Experience Replay DQN: [無効な URL を削除しました]
