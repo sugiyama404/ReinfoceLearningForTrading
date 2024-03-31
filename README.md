@@ -4,7 +4,7 @@
 [![TensorFlow](https://shields.io/badge/TensorFlow-2.9.1-green.svg)](https://www.tensorflow.org/)
 [![Google Colaboratory](https://shields.io/badge/Google_Colaboratory-orange.svg)](https://colab.research.google.com/)
 [![pandas](https://shields.io/badge/pandas-1.4.2-orange.svg)](https://pandas.pydata.org/)
-[![scikit-learn](https://shields.io/badge/scikit-learn-1.0.2-blue.svg)](https://scikit-learn.org/stable/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![matplotlib](https://shields.io/badge/matplotlib-3.5.1-blue.svg)](https://matplotlib.org/)
 [![NumPy](https://shields.io/badge/NumPy-1.22.3-blue.svg)](https://numpy.org/)
 
