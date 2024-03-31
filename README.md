@@ -27,6 +27,50 @@
 + 仮想通貨取引
 + その他、様々な金融商品
 
+## 収録アルゴリズム
+Q-Learning
+Double Q-Learning
+Prioritized Experience Replay DQN
+Categorical DQN
+DDQN
+Rainbow
+SARSA
+A2C
+A3C
+PPO
+IMPALA
+Ape-X
+GORILA
+PDD-DQN
+MuZero
+R2D2
+DRQN (Burn-In)
+DRQN (Sequential)
+DRQN
+
+##リンク一覧(Qiita記事)
+### 各アルゴリズムの詳細:
+
+Q-Learning: [(https://qiita.com/sugiyama404/items/5ac7043c7d3c2edd043a)]
+SARSA: [(https://qiita.com/sugiyama404/items/5ac7043c7d3c2edd043a)]
+Double Q-Learning: [無効な URL を削除しました]
+Prioritized Experience Replay DQN: [無効な URL を削除しました]
+Categorical DQN: [無効な URL を削除しました]
+DDQN: [無効な URL を削除しました]
+Rainbow: [無効な URL を削除しました]
+A2C: [無効な URL を削除しました]
+A3C: [無効な URL を削除しました]
+PPO: [無効な URL を削除しました]
+IMPALA: [無効な URL を削除しました]
+Ape-X: [無効な URL を削除しました]
+GORILA: [無効な URL を削除しました]
+PDD-DQN: [無効な URL を削除しました]
+MuZero: [無効な URL を削除しました]
+R2D2: [無効な URL を削除しました]
+DRQN (Burn-In): [無効な URL を削除しました]
+DRQN (Sequential): [無効な URL を削除しました]
+DRQN: [無効な URL を削除しました]
+
 
 
 
