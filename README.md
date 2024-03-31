@@ -1,12 +1,12 @@
 # 未来を拓く投資ツール：深層強化学習自動売買ツール
 
-[![Python](https://shields.io/badge/Python-3.9.12-blue.svg)](https://www.python.org/)
-[![TensorFlow](https://shields.io/badge/TensorFlow-2.9.1-green.svg)](https://www.tensorflow.org/)
+[![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Google Colaboratory](https://shields.io/badge/Google_Colaboratory-orange.svg)](https://colab.research.google.com/)
-[![pandas](https://shields.io/badge/pandas-1.4.2-orange.svg)](https://pandas.pydata.org/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![matplotlib](https://shields.io/badge/matplotlib-3.5.1-blue.svg)](https://matplotlib.org/)
-[![NumPy](https://shields.io/badge/NumPy-1.22.3-blue.svg)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)](https://numpy.org/)
 
 ## はじめに
 
