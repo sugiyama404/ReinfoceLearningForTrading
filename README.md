@@ -53,17 +53,17 @@
 
 + Q-Learning: (https://qiita.com/sugiyama404/items/5ac7043c7d3c2edd043a)
 + SARSA: [(https://qiita.com/sugiyama404/items/5ac7043c7d3c2edd043a)]
-+ Double Q-Learning: [無効な URL を削除しました]
++ Double Q-Learning: [https://qiita.com/sugiyama404/items/6a1958079ea14b4ceae7]
 + Prioritized Experience Replay DQN: [無効な URL を削除しました]
 + Categorical DQN: [無効な URL を削除しました]
 + DDQN: [無効な URL を削除しました]
 + Rainbow: [無効な URL を削除しました]
 + A2C: [無効な URL を削除しました]
-+ A3C: [無効な URL を削除しました]
-+ PPO: [無効な URL を削除しました]
++ A3C: (https://qiita.com/sugiyama404/items/059da76f6d0468339104)
++ PPO: (https://qiita.com/sugiyama404/items/c27eb01da59aeca0edb6)
 + IMPALA: [無効な URL を削除しました]
 + Ape-X: [無効な URL を削除しました]
-+ GORILA: [無効な URL を削除しました]
++ GORILA: (https://qiita.com/sugiyama404/items/a376247c68bb265ba07a)
 + PDD-DQN: [無効な URL を削除しました]
 + MuZero: [無効な URL を削除しました]
 + R2D2: [無効な URL を削除しました]
